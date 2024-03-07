@@ -9,8 +9,8 @@ public class Variaveis {
 		double saldoDaContaUsuario = 33999.57D;
 		char sexoUsuario = 'f';
 		boolean usuarioCadastrado = true;
-        long populacaoDoPais = 19872397891L; 
-        short quantidadeDeFamiliaresUsuario = 21;
+        	long populacaoDoPais = 19872397891L; 
+        	short quantidadeDeFamiliaresUsuario = 21;
 	}
 
 }
