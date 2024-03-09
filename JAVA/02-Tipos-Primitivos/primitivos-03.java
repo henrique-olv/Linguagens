@@ -4,8 +4,8 @@ public class TiposPrimitivos {
         
         //Valores Booleanos
 
-        boolean verdadeiro = true;
-        boolean falso = false;
+	        boolean verdadeiro = true;
+	        boolean falso = false;
 	
 	}
 		
