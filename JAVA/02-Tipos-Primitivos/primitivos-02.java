@@ -4,8 +4,8 @@ public class TiposPrimitivos {
         
         //Pontos Flutuantes
 
-        double valorPassagem = 33.10;
-	float valorIngresso = 7.95f;
+	        double valorPassagem = 33.10;
+		float valorIngresso = 7.95f;
 		
 	}
 		
