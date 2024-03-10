@@ -1,8 +1,9 @@
 public class Variaveis {
 	
 	public static void main(String[]args) {
-		
-		int idadeUsuario = 17;  
+
+		int codigoRegistroUsuario = 789;
+		byte idadeUsuario = 17;  
 		String nomeUsuario = "Maria";
 		String nomeBairroUsuario = "Centro";
 		float salarioUsuario = 1750.17F;
@@ -11,6 +12,7 @@ public class Variaveis {
 		boolean usuarioCadastrado = true;
         	long populacaoDoPais = 19872397891L; 
         	short quantidadeDeFamiliaresUsuario = 21;
+	 
 	}
 
 }
