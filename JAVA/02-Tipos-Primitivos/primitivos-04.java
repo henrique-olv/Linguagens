@@ -4,8 +4,8 @@ public class TiposPrimitivos {
         
         //Valores Char
 
-	        boolean verdadeiro = true;
-	        boolean falso = false;
+	        char sexo = 'M';
+	        char usuarioAtivo = 's';
 	
 	}
 		
